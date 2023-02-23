@@ -1,5 +1,7 @@
 
 
+![icegif-172](https://user-images.githubusercontent.com/121780473/220983742-570ae968-077e-481a-8d88-b8a04d16174d.gif)
+
 
 ### 👋HI I'm Hansaka😉  
 <div align="center">
@@ -12,6 +14,7 @@
 
 - 🔭 I’m currently active in my githubProfile😀https://github.com/hansakam  
   
+![icegif-172](https://user-images.githubusercontent.com/121780473/220983693-d322c83b-ecc1-4a05-9994-0760e505ec2b.gif)
 
 - 🌱 I’m currently learning Hybernate and  JS  
   
