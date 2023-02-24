@@ -1,6 +1,5 @@
+![artificially-intelligent-hackers-gif](https://user-images.githubusercontent.com/121780473/221089621-1c766a9e-0e15-4f2a-aaae-d1cad68f2235.gif)
 
-
-![icegif-172](https://user-images.githubusercontent.com/121780473/220983742-570ae968-077e-481a-8d88-b8a04d16174d.gif)
 
 
 ### 👋HI I'm Hansaka😉  
